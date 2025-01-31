@@ -24,8 +24,8 @@ const config = {
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "", //qmsg酱key
-  qmsgTo: "", //推送的qq号,用,分隔(可选)
+  qmsgKey: "582f35863d3b7d059e5a966a591e0bc2", //qmsg酱key
+  qmsgTo: "3434728941", //推送的qq号,用,分隔(可选)
   wxPusherAppToken: "", // wxPusher 的 appToken
   // TODO: feat: (wxpusher/topic) support wxpusher/topic push
 };
