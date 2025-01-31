@@ -4,8 +4,8 @@ const config = {
     {
       username: "17362086561", //用户名
       password: "Zhugeqinmo2", //密码
-      openId: "openId=ooru94jLO0RRNomJguovjx9_rQik", //微信小程序抓包openid(可选)
-      unionId: "unionId=oHY-uwTrZDa7Axvk-uUxMUztbEPo", //微信小程序抓包unionId(可选)
+      openId: "", //微信小程序抓包openid(可选)
+      unionId: "", //微信小程序抓包unionId(可选)
       sign: true, //是否自动签到
       reSign: false, //是否重新签到
       location: "", //经纬度 (可选),例如 "120.210792,30.246026"、"经度,纬度",不填写则自动获取（推荐）
@@ -24,7 +24,7 @@ const config = {
     //   needReport: false, //是否自动填写周报
     // },
   ],
-  qmsgKey: "582f35863d3b7d059e5a966a591e0bc2", //qmsg酱key
+  qmsgKey: "f58ffe07ab211c949e6acdbc5eeac4fb", //qmsg酱key
   qmsgTo: "3434728941", //推送的qq号,用,分隔(可选)
   wxPusherAppToken: "", // wxPusher 的 appToken
   // TODO: feat: (wxpusher/topic) support wxpusher/topic push
