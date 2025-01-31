@@ -672,10 +672,10 @@ async function run() {
   if (processConfig) {
     console.log("====使用命令行配置====");
     const confTemp = {
-      username: "",
-      password: "",
-      openId: "",
-      unionId: "",
+      username: "17362086561",
+      password: "Zhugeqinmo2",
+      openId: "ooru94jLO0RRNomJguovjx9_rQik",
+      unionId: "oHY-uwTrZDa7Axvk-uUxMUztbEPo",
       sign: true,
       reSign: false,
       location: "",
